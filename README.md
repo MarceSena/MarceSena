@@ -24,7 +24,9 @@
 </p>  
 
 ### ⭐GitHub statistics
-<p align = "center">    
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=MarceSena&show_icons=true&theme=tokyonight&line_height=27%22">
+</p>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarceSena&hide=css,java,html&theme=tokyonight">
 </p>
 
