@@ -1,10 +1,9 @@
 <div align="center">
 
 ### 👋 Hi, I’m @MarceSena
-<img src="https://i1.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1">
 
 #### I'm Software Engineer from Amazonas-BR 🌳
-#### I am a developer and aspiring designer .
+#### I am a web developer.
 #### I have a great dream of being able to positively impact people's lives through development.
 
 </div>
